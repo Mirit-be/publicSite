@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Create_websites on Mirit</title>
-    <link>https://www.mirit.be/create_website/</link>
+    <link>https://mirit-be.github.io/site/create_website/</link>
     <description>Recent content in Create_websites on Mirit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
-    <lastBuildDate>Thu, 05 Nov 2020 23:36:25 +0100</lastBuildDate><atom:link href="https://www.mirit.be/create_website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2020 23:36:25 +0100</lastBuildDate><atom:link href="https://mirit-be.github.io/site/create_website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aanmaken website</title>
-      <link>https://www.mirit.be/create_website/website/</link>
+      <link>https://mirit-be.github.io/site/create_website/website/</link>
       <pubDate>Thu, 05 Nov 2020 23:36:25 +0100</pubDate>
       
-      <guid>https://www.mirit.be/create_website/website/</guid>
+      <guid>https://mirit-be.github.io/site/create_website/website/</guid>
       <description>Aanmaken website</description>
     </item>
     

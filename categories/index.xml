@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mirit</title>
-    <link>https://www.mirit.be/categories/</link>
+    <link>https://mirit-be.github.io/site/categories/</link>
     <description>Recent content in Categories on Mirit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-be</language><atom:link href="https://www.mirit.be/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl-be</language><atom:link href="https://mirit-be.github.io/site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
