@@ -1,0 +1,14 @@
+.flex-container{
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+.flex-containerL{
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-item {
+   padding: 10px;
+} 

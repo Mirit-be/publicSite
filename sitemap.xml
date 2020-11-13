@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.mirit.be/create_website/website/</loc>
+    <lastmod>2020-11-05T23:36:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mirit.be/create_website/</loc>
+    <lastmod>2020-11-05T23:36:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mirit.be/remote_support/</loc>
+    <lastmod>2020-11-05T23:36:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mirit.be/remote_support/remote_support1/</loc>
+    <lastmod>2020-11-05T23:36:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mirit.be/</loc>
+    <lastmod>2020-10-20T23:08:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.mirit.be/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.mirit.be/tags/</loc>
+  </url>
+  
+</urlset>
