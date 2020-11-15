@@ -1,3 +1,6 @@
+ :root {
+  --maincolor: #00007f;
+}
 label {
     /* To make sure that all labels have the same size and are properly aligned */
     display: inline-block;
@@ -33,11 +36,11 @@ form div + div {
     margin-top: 1em;
 }
 .Submitknop { 
-    background: lightgrey; color: #00007f; padding-left: 1em; font-weight: normal; height:40px 
+    background: lightgrey; color: var(--maincolor); padding-left: 1em; font-weight: normal; height:40px 
 }
 
 .Submitknophover { 
-    background: lightgrey; color: #00007f; padding-left: 1em; font-weight: bold; height:40px 
+    background: lightgrey; color: var(--maincolor); padding-left: 1em; font-weight: bold; height:40px 
 }
 .grid-container {
   display: grid;
