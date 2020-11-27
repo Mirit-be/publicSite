@@ -6,7 +6,11 @@
     <description>Recent content in Remote support on Mirit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
-    <lastBuildDate>Tue, 20 Oct 2020 23:08:40 +0200</lastBuildDate><atom:link href="https://mirit-be.github.io/site/remote_support/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 23:08:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://mirit-be.github.io/site/remote_support/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Remote support</title>
       <link>https://mirit-be.github.io/site/remote_support/</link>
